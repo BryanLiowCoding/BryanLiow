@@ -8,12 +8,12 @@
 
 <table width="100%">
   <tr>
-    <th width="20%">🌱 <b>Getting stronger at</b></th>
-    <td width="80%">React and Frontend Development - I'm dedicated to deepening my knowledge of React, constantly exploring its capabilities for creating intuitive, dynamic user interfaces.</td>
+    <th width="30%">🌱 <b>Getting stronger at</b></th>
+    <td width="70%">React and Frontend Development - I'm dedicated to deepening my knowledge of React, constantly exploring its capabilities for creating intuitive, dynamic user interfaces.</td>
   </tr>
   <tr>
-    <th width="20%">💡 <b>Interested in</b></th>
-    <td width="80%">I have a growing interest in the potential of Web3 technologies, particularly in the realm of decentralized applications (dApps).</td>
+    <th width="30%">💡 <b>Interested in</b></th>
+    <td width="70%">I have a growing interest in the potential of Web3 technologies, particularly in the realm of decentralized applications (dApps).</td>
   </tr>
 </table>
 
